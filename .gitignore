@@ -1,3 +1,6 @@
+#Carpeta con libros teoricos usados para el proyecto.
 **/Libros
+#Archivos ejecutables creados al compilar un archivo C.
 *.exe
-**/.vscode
+#Carpeta de configuraciones de vscode.
+**/.vscode 
